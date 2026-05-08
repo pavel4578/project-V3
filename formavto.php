@@ -3,7 +3,7 @@ include 'template/db.php';
 include 'template/head.php';
 include 'template/nav.php';
 ?>
-  <h1 >Авторизация </h1>
+  <h1 >Авторизация  </h1>
 <form method="post" action="avto.php" >
   <div class="mb-3">
     <label for="name" class="form-label">Логин</label>
